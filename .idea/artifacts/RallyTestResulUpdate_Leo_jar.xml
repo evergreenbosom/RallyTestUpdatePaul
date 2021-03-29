@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RallyTestResulUpdate-Leo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RallyTestResulUpdate_Leo_jar</output-path>
+    <root id="archive" name="RallyTestResulUpdate-Leo.jar">
+      <element id="module-output" name="RallyTestResulUpdate-Leo" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/RallyTestResulUpdate/out/artifacts/RallyTestResulUpdate_jar/RallyTestResulUpdate.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

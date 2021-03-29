@@ -1,0 +1,86 @@
+
+Y	java:S125¼"<This block of commented-out lines of code should be removed.(ÃøåÄ8Ç†ºñ.
+d
+java:S2259©"FA "NullPointerException" could be thrown; "testsets" is nullable here.(¿íÑŞ8Ç†ºñ.
+i
+java:S2259Ì"FA "NullPointerException" could be thrown; "response" is nullable here.(èÛ˜ñıÿÿÿÿ8Ç†ºñ.
+e
+java:S1854•"BRemove this useless assignment to local variable "createResponse".(Öûì•şÿÿÿÿ8Ç†ºñ.
+a
+java:S1854Œ"CRemove this useless assignment to local variable "myAttachmentRef".(…®«8¸ïŒàñ.
+V	java:S125C"<This block of commented-out lines of code should be removed.(´¢éøùÿÿÿÿ
+u
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş‰ÂÍşÿÿÿÿ
+i
+java:S2095R"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ËïÜË8Ç†ºñ.
+f
+java:S1192ù"IDefine a constant instead of duplicating this literal "TestSets" 5 times.(¯½Ç;8Ç†ºñ.
+c
+java:S1192D"HDefine a constant instead of duplicating this literal "TestSet" 7 times.(¦û¸“ıÿÿÿÿ
+v	java:S135‡"YReduce the total number of break and continue statements in this loop to use at most one.(ÁÄ”Á8Ç†ºñ.
+X
+java:S1481Ÿ"5Remove this unused "numberOfTestSets" local variable.(§ÅÆìÿÿÿÿÿ8Ç†ºñ.
+v	java:S135§"YReduce the total number of break and continue statements in this loop to use at most one.(ÁÄ”Á8Ç†ºñ.
+^	java:S125"<This block of commented-out lines of code should be removed.(ÕîÊüÿÿÿÿ8¦‡àñ.
+d
+java:S1192|"HDefine a constant instead of duplicating this literal "EndDate" 4 times.(†‡¿Q8Ç†ºñ.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8°¥ÇÅñ.
+]	java:S125i"<This block of commented-out lines of code should be removed.(¿ÿ¼·şÿÿÿÿ8Ç†ºñ.
+`
+java:S1854B">Remove this useless assignment to local variable "allTestSet".(éß†©şÿÿÿÿ8ö¦ºñ.
+Q	java:S125A"<This block of commented-out lines of code should be removed.(ñ®Æı
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(ˆ«şˆøÿÿÿÿ8›Ë½ó.
+B
+java:S1075P"&Remove this hard-coded path-delimiter.(ùòßW8Ç†ºñ.
+^	java:S125Ì"<This block of commented-out lines of code should be removed.(èÛ˜ñıÿÿÿÿ8Ç†ºñ.
+e
+java:S2259m"CA "NullPointerException" could be thrown; "tsRef" is nullable here.(¼¯™Íıÿÿÿÿ8Ç†ºñ.
+d
+java:S2259¥"FA "NullPointerException" could be thrown; "response" is nullable here.(æËÙÜ8Ç†ºñ.
+m
+java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÙØ¤Şıÿÿÿÿ
+j
+java:S1854¸"GRemove this useless assignment to local variable "testsetsAfterUpdate".(¾Ë¤ÿÿÿÿÿ8Ç†ºñ.
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(öõ©¬ûÿÿÿÿ8Ó€®½ó.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ğ²˜ïıÿÿÿÿ8Ç†ºñ.
+Y	java:S125Ã"<This block of commented-out lines of code should be removed.(ñÓ¾Ì8Ç†ºñ.
+w
+java:S2293Ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(îÕ×8Ç†ºñ.
+o
+java:S1192º"LDefine a constant instead of duplicating this literal "FormattedID" 6 times.(€‹å›ÿÿÿÿÿ8Ç†ºñ.
+i
+java:S2259ˆ"FA "NullPointerException" could be thrown; "response" is nullable here.(µòûóÿÿÿÿÿ8Ç†ºñ.
+g	java:S112e"FDefine and throw a dedicated exception instead of using a generic one.(á„‘Ëşÿÿÿÿ8Ç†ºñ.
+d
+java:S2259†"FA "NullPointerException" could be thrown; "response" is nullable here.(æËÙÜ8Ç†ºñ.
+g	java:S112a"FDefine and throw a dedicated exception instead of using a generic one.(ˆÅ™ùÿÿÿÿ8Ç†ºñ.
+V
+java:S1481•"3Remove this unused "createResponse" local variable.(Öûì•şÿÿÿÿ8Ç†ºñ.
+d
+java:S2259ß"FA "NullPointerException" could be thrown; "response" is nullable here.(æËÙÜ8Ç†ºñ.
+‡
+java:S1488Ì"dImmediately return this expression instead of assigning it to the temporary variable "iterationRef".(èÛ˜ñıÿÿÿÿ8Ç†ºñ.
+Q
+java:S1481B"/Remove this unused "allTestSet" local variable.(éß†©şÿÿÿÿ8ö¦ºñ.
+r
+java:S2259´"TA "NullPointerException" could be thrown; "updateTestCaseResponse" is nullable here.(ÙÊƒ8Ç†ºñ.
+R
+java:S1481Œ"4Remove this unused "myAttachmentRef" local variable.(…®«8¸ïŒàñ.
+f
+java:S1192|"JDefine a constant instead of duplicating this literal "StartDate" 4 times.(†‡¿Q8Ç†ºñ.
+^
+java:S1192?"HDefine a constant instead of duplicating this literal "Project" 4 times.(Å¢ıÈ
+0
+java:S1220""Move this file to a named package.
+q
+java:S2095ê"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(ÈßÙıÿÿÿÿ8Ç†ºñ.
+g
+java:S1854Ÿ"DRemove this useless assignment to local variable "numberOfTestSets".(§ÅÆìÿÿÿÿÿ8Ç†ºñ.
+…
+java:S1488ˆ"bImmediately return this expression instead of assigning it to the temporary variable "jsonObject".(µòûóÿÿÿÿÿ8Ç†ºñ.
+[
+java:S1481¸"8Remove this unused "testsetsAfterUpdate" local variable.(¾Ë¤ÿÿÿÿÿ8Ç†ºñ.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(²Œöô8Ç†ºñ.
+^	java:S125Æ"<This block of commented-out lines of code should be removed.(›¾«Šøÿÿÿÿ8Ç†ºñ.
+`
+java:S11929"JDefine a constant instead of duplicating this literal "workspace" 3 times.(ÅìĞø
